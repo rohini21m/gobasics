@@ -5,7 +5,7 @@ import (
 )
 
 func main(){
-	fmt.Println("I am Rohini Munnangi. I am a soul")
+	fmt.Println("I am hippa. I am a zig")
 	var name = "timothee"
 	var namethree string 
 	namethree = "pushpa"
